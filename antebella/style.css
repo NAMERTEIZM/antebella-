@@ -1,0 +1,347 @@
+
+body{
+    box-sizing: border-box;
+   
+}
+
+#logokapsar{
+    /* border: solid 2px green; */
+    max-width: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+#logo{
+    max-width: 160px;
+    max-height: 50px;
+    
+}
+
+#icerik{
+    
+    
+    font-size: 29px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: -0.3px;
+    text-align: left;
+    display: flex;
+    font-family: Montserrat, sans-serif;
+    font-style: bold;
+   
+    
+    
+   
+   
+}
+
+ul {
+   
+    margin: 0;
+    padding: 0;
+    
+   
+    
+  }
+  
+  li {
+    display: inline;
+    margin: 25px;
+   
+  
+   
+    
+    
+  }
+
+#first-container{
+/* border: 3px solid red; */
+max-width:100%;
+height: 100vh;
+
+background-image: url("img/bg.jpg");
+background-position: center;
+background-repeat:no-repeat ;
+background-size: cover;
+
+}
+
+#navbar{
+    /* border: 3px solid rgb(0, 26, 255); */
+    max-height: 80px;
+    
+    }
+    #social{
+        /* border: 3px dotted rgb(234, 0, 255); */
+        max-height: 80px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+       
+
+    
+    }
+    #social img{
+        max-width: 30px;
+        max-height: auto;
+        float: left;
+        margin: 10px;
+        
+        
+        
+        
+        
+    }
+   
+    #social span{
+      max-width: auto;
+      max-height:50px ;
+      display: flex;
+    
+        
+    }
+#cont{
+    /* border: solid 2px rgb(255, 217, 0); */
+    align-items: center;
+    justify-content: center;
+    max-width:auto;
+    max-height: 100%;
+    margin-top: 160px;
+  
+    
+    
+}
+    #aa{
+    /* border: solid 2px  rgb(76, 0, 255); */
+    line-height: 0.5;
+    padding: 10px;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.99;
+    letter-spacing: -0.9px;
+    text-align: left;
+    color: #fff;
+  }
+    
+ 
+    
+
+ #aac{
+    /* border: solid 2px violet; */
+    max-height: auto;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.4;
+    letter-spacing: -0.2px;
+    text-align: left;
+    color: #fff;
+  
+ }
+ #second-container{
+    /* border: 3px dotted green; */
+    max-width:1920px;
+    max-height: auto;
+     /*display: flex;
+    justify-content: center; */
+    background-color: #2da2b5;
+    
+
+}
+ /* #fl{ */
+    /* border: solid 2px red; */
+   /*  max-width: auto;
+    max-height: 100%;
+    display: flex;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    
+
+ }
+ */
+ /* #fr{
+    border: solid 2px rgb(9, 255, 0);
+   /* max-width: 100vh;
+    max-height: 100vh;
+    */
+ 
+ 
+#logo2{
+    margin-left: 100px;
+    margin-top: 100px;
+    max-width: 417px;
+    max-height: 85px;
+   /* display: flex;
+    padding: 5px;
+    object-fit: cover;
+    
+    */
+}
+
+#yazilar{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#yazilar h1{
+    margin-left: 50px;
+}
+#fl p{
+    margin-left: 50px;  
+    font-family: SFPro;
+    font-size: 22px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: -0.44px;
+    text-align: left;
+    color: #fff;
+    
+}
+#fl #yazilar span{
+    font-family: SFPro;
+    font-size: 22px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: -0.44px;
+    text-align: left;
+    color: #fff;
+    font-weight: bold;
+    margin-left: 50px;
+
+}
+#aciklama{
+    margin-left: 100px;
+    margin-top: 100px;   
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: -0.3px;
+    text-align: left;
+    color: #1e1e1e;
+    
+}
+/*
+#foot{
+    border: dotted 2px blue;
+}
+*/
+#fr h6{
+    margin-top: 100px;
+    margin-left: 20px;
+    font-family: SFPro;
+    font-size: 32px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.64px;
+    text-align: left;
+    color: #d2ed06;
+}
+#ftimg img{
+    display:inline;
+    margin: 20px;
+    max-width: 40px;
+    max-height: 40px;
+}
+#ftacik{
+    margin-left: 20px;
+    font-family: SFPro;
+    font-size: 25px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.54px;
+    text-align: left;
+    color: #fff;
+}
+#buton{
+    width: 200px;
+    height: 49.4px;
+    margin-top: 50px;
+    margin-right: 85px;
+    margin-left: auto;
+    border-radius: 28px;
+    border:0;
+    background-color: #d2ed06;
+    
+    
+    letter-spacing: normal;
+    text-align: center;
+    color: #2da2b5;
+
+}
+#antepsan{
+  max-width: 280px;
+    max-height: 40px;
+   margin-left: auto;
+    margin-bottom: 40px;
+    margin-right: 72px;
+    margin-top: 160px;
+    
+ /*      bottom: 0;
+    margin-left: auto;
+    max-width: 279px;
+    position: absolute;
+    right: 0; */
+}
+
+#fbl{
+    /* border: solid 3px greenyellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#fbr{
+    /* border: solid 3px violet; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.third-container{
+    max-height: 100%;   
+    background-color: #1e1e1e;
+    padding: 20px;
+}
+.third-container span{
+    font-family: SFPro;
+    font-size: 15px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #707070;
+    
+  }
+  @media only screen and(max-width:700px) {
+
+    #navbar{
+    /* border: 3px solid rgb(0, 26, 255); */
+    max-height: 40px;
+    
+    }
+    .first-container{
+        column-width: auto;
+        
+        background-size:fill;
+
+    }
+  }
